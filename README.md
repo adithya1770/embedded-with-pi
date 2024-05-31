@@ -1,7 +1,6 @@
 # SmokeDetection
 
 <h1>A Smoke/Particulate detection device which will turn the actuators when particulate matter is detected</h1>
-<p>Require mq2 and various other modules tto run</p>
 
 # Devices used
 
@@ -15,4 +14,4 @@
 
 # Results
 
-<img src>
+<img src="./raspy.jpeg">
