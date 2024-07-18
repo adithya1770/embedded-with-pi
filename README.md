@@ -1,5 +1,4 @@
-# SmokeDetection
-
+# Project using Pi
 <h1>A Smoke/Particulate detection device which will turn the actuators when particulate matter is detected</h1>
 
 # Devices used
